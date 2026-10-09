@@ -1,0 +1,151 @@
+skill,category
+python,programming
+java,programming
+c++,programming
+c programming,programming
+javascript,programming
+typescript,programming
+go,programming
+rust,programming
+r programming,programming
+sql,programming
+bash,programming
+powershell,programming
+html,web
+css,web
+react,web
+angular,web
+vue,web
+node.js,web
+express,web
+django,web
+flask,web
+fastapi,web
+rest api,web
+graphql,web
+bootstrap,web
+tailwind,web
+mysql,database
+postgresql,database
+mongodb,database
+sqlite,database
+redis,database
+oracle,database
+elasticsearch,database
+cassandra,database
+dynamodb,database
+pandas,data
+numpy,data
+scikit-learn,data
+tensorflow,data
+pytorch,data
+keras,data
+matplotlib,data
+seaborn,data
+plotly,data
+jupyter,data
+excel,data
+tableau,data
+power bi,data
+data analysis,data
+data science,data
+data engineering,data
+data visualization,data
+statistics,data
+probability,data
+linear algebra,data
+machine learning,ai
+deep learning,ai
+neural networks,ai
+nlp,ai
+natural language processing,ai
+computer vision,ai
+reinforcement learning,ai
+generative ai,ai
+large language models,ai
+llm,ai
+transformers,ai
+bert,ai
+gpt,ai
+feature engineering,ai
+model evaluation,ai
+regression,ai
+classification,ai
+clustering,ai
+random forest,ai
+decision tree,ai
+xgboost,ai
+lightgbm,ai
+gradient boosting,ai
+svm,ai
+knn,ai
+k-means,ai
+pca,ai
+aws,cloud
+azure,cloud
+gcp,cloud
+google cloud,cloud
+docker,devops
+kubernetes,devops
+jenkins,devops
+git,devops
+github,devops
+gitlab,devops
+ci/cd,devops
+terraform,devops
+ansible,devops
+linux,devops
+unix,devops
+nginx,devops
+apache,devops
+cybersecurity,security
+network security,security
+penetration testing,security
+vulnerability assessment,security
+threat detection,security
+incident response,security
+malware analysis,security
+reverse engineering,security
+cryptography,security
+firewalls,security
+ids,security
+ips,security
+siem,security
+splunk,security
+wireshark,security
+metasploit,security
+burp suite,security
+nmap,security
+snort,security
+suricata,security
+zeek,security
+kali linux,security
+owasp,security
+soc,security
+risk assessment,security
+compliance,security
+iso 27001,security
+nist,security
+gdpr,security
+communication,soft
+teamwork,soft
+leadership,soft
+problem solving,soft
+time management,soft
+adaptability,soft
+critical thinking,soft
+project management,soft
+agile,soft
+scrum,soft
+kanban,soft
+jira,soft
+confluence,soft
+slack,soft
+git,devops
+networking,networking
+nids,security
+hids,security
+system monitoring,devops
+anomaly detection,security
+linux administration,devops
+exploitation,security

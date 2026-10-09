@@ -21,3 +21,5 @@ Thumbs.db
 
 # Data (uncomment later if needed)
 # data/*.csv
+# Personal resume files (do not commit)
+data/*.pdf

@@ -1,0 +1,19 @@
+We are hiring a Junior AI/ML Engineer.
+
+Required skills:
+- Python (expert level)
+- Machine learning with scikit-learn
+- Deep learning basics (TensorFlow or PyTorch)
+- SQL for data querying
+- Git for version control
+- Docker for deployment
+- Strong communication and teamwork
+- Problem-solving attitude
+- Familiarity with Linux
+- Experience with AWS or GCP is a plus
+
+Nice to have:
+- NLP experience
+- Tableau or Power BI
+- React or any frontend framework
+- REST API development

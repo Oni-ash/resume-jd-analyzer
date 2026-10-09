@@ -1,0 +1,86 @@
+skill,weight
+python,0.95
+sql,0.85
+machine learning,0.90
+deep learning,0.88
+nlp,0.82
+natural language processing,0.82
+tensorflow,0.80
+pytorch,0.78
+scikit-learn,0.80
+pandas,0.75
+numpy,0.72
+data analysis,0.78
+data science,0.80
+statistics,0.70
+java,0.75
+javascript,0.72
+react,0.70
+node.js,0.68
+django,0.66
+flask,0.66
+rest api,0.72
+mysql,0.78
+postgresql,0.72
+mongodb,0.65
+aws,0.85
+azure,0.78
+gcp,0.72
+google cloud,0.72
+docker,0.78
+kubernetes,0.75
+git,0.70
+github,0.68
+linux,0.72
+unix,0.65
+ci/cd,0.70
+terraform,0.68
+communication,0.85
+teamwork,0.82
+problem solving,0.80
+leadership,0.72
+time management,0.68
+critical thinking,0.75
+agile,0.70
+scrum,0.68
+cybersecurity,0.80
+network security,0.78
+penetration testing,0.72
+vulnerability assessment,0.75
+threat detection,0.72
+incident response,0.70
+metasploit,0.65
+nmap,0.68
+wireshark,0.68
+snort,0.62
+suricata,0.62
+zeek,0.60
+nids,0.62
+hids,0.62
+anomaly detection,0.68
+system monitoring,0.65
+linux administration,0.68
+exploitation,0.65
+nist,0.55
+owasp,0.65
+siem,0.68
+splunk,0.68
+networking,0.70
+power bi,0.68
+tableau,0.68
+flask,0.66
+express,0.62
+angular,0.65
+vue,0.62
+typescript,0.70
+go,0.72
+rust,0.70
+kubernetes,0.75
+power bi,0.68
+tableau,0.68
+express,0.62
+angular,0.65
+vue,0.62
+typescript,0.70
+go,0.72
+rust,0.70
